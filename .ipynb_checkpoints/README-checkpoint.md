@@ -1,0 +1,2 @@
+# hcde-410-final
+This project uses judges' scores from Dancing with the Stars Seasons 1–34 to estimate how much professional partners raise their celebrities' scores and how much faster they help them improve, separating the pro's contribution from the celebrity's own ability with mixed-effects models.
